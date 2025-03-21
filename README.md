@@ -21,6 +21,10 @@ No automated testing is enabled in this assignment, but any code used for this a
 * Code repository with Python code and report in document format (e.g., PDF, Word, etc.)
 * Descriptive and predictive analytics report also submitted in Blackboard.
 
+## Helpful Hints
+
+* You can find documentation outlining the contents of the dataset's columns at [https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ)
+
 ## Useful Python Code
 
 * Creating an OLS model with statsmodel.api
